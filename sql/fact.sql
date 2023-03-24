@@ -1,5 +1,5 @@
 -- Create orders fact table
-CREATE TABLE orders_fact (
+CREATE TABLE factorderslines (
     order_number INT PRIMARY KEY,
     quantity_ordered INT,
     price_each DECIMAL(10,2),
@@ -11,18 +11,19 @@ CREATE TABLE orders_fact (
 );
 
 -- Populate orders fact table
-INSERT INTO orders_fact (order_number, quantity_ordered, price_each, order_line_number, status, customer_name,
+INSERT INTO factorderslines (order_number, quantity_ordered, price_each, order_line_number, status, customer_name,
                          date_id, deal_size)
 SELECT ORDERNUMBER, QUANTITYORDERED, PRICEEACH, ORDERLINENUMBER, STATUS, CUSTOMERNAME, ORDERDATE, DEALSIZE
 FROM original_table;
 
 -- Create sales fact table
-CREATE TABLE sales_fact (
+CREATE TABLE factorders (
     order_number INT PRIMARY KEY,
     sales DECIMAL(10,2)
 );
 
 -- Populate sales fact table
-INSERT INTO sales_fact (order_number, sales)
-SELECT ORDERNUMBER, SALES
-FROM original_table;
+INSERT INTO factorders (order_number, sales)
+SELECT ORDERNUMBER, SUM(price_each)
+FROM original_table
+GROUP BY ORDERNUMBER;
