@@ -1,29 +1,28 @@
--- Create orders fact table
-CREATE TABLE factorderslines (
-    order_number INT PRIMARY KEY,
-    quantity_ordered INT,
-    price_each DECIMAL(10,2),
-    order_line_number INT,
-    status VARCHAR(20),
-    customer_name VARCHAR(100),
-    date_id DATE,
-    deal_size VARCHAR(20)
+-- Create fact table factorderlines = Fact_Transaction
+CREATE TABLE factorderlines (
+    PRODUCTID INTEGER NOT NULL,
+    CUSTOMERID INTEGER NOT NULL,
+    DATEID INTEGER NOT NULL,
+    ORDERNUMBER VARCHAR(50) NOT NULL,
+    ORDERLINENUMBER INTEGER NOT NULL,
+    QUANTITYORDERED INTEGER NOT NULL,
+    PRICEEACH NUMERIC(10,2) NOT NULL,
+    DEALSIZE VARCHAR(10) NOT NULL,
+    SALEPRICE NUMERIC(10,2) NOT NULL,
+    PRIMARY KEY (PRODUCTID, CUSTOMERID, DATEID, ORDERNUMBER, ORDERLINENUMBER),
+    FOREIGN KEY (PRODUCTID) REFERENCES dim_product (PRODUCTID),
+    FOREIGN KEY (CUSTOMERID) REFERENCES dim_customer (CUSTOMERID),
+    FOREIGN KEY (DATEID) REFERENCES dim_date (DATEID)
 );
 
--- Populate orders fact table
-INSERT INTO factorderslines (order_number, quantity_ordered, price_each, order_line_number, status, customer_name,
-                         date_id, deal_size)
-SELECT ORDERNUMBER, QUANTITYORDERED, PRICEEACH, ORDERLINENUMBER, STATUS, CUSTOMERNAME, ORDERDATE, DEALSIZE
-FROM original_table;
-
--- Create sales fact table
+-- Create fact table factorders
 CREATE TABLE factorders (
-    order_number INT PRIMARY KEY,
-    sales DECIMAL(10,2)
+    CUSTOMERID INTEGER NOT NULL,
+    DATEID INTEGER NOT NULL,
+    ORDERNUMBER VARCHAR(50) NOT NULL,
+    STATUS VARCHAR(20) NOT NULL,
+    TOTAL_ORDER_AMOUNT NUMERIC(10,2) NOT NULL,
+    PRIMARY KEY (ORDERNUMBER),
+    FOREIGN KEY (CUSTOMERID) REFERENCES dim_customer (CUSTOMERID),
+    FOREIGN KEY (DATEID) REFERENCES dim_date (DATEID)
 );
-
--- Populate sales fact table
-INSERT INTO factorders (order_number, sales)
-SELECT ORDERNUMBER, SUM(price_each)
-FROM original_table
-GROUP BY ORDERNUMBER;
