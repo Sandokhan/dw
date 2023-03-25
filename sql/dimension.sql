@@ -1,5 +1,8 @@
+-- Create Schema
+CREATE SCHEMA datawarehouse;
+
 -- Create date dimension
-CREATE TABLE dim_date (
+CREATE TABLE datawarehouse.dim_date (
   DATEID VARCHAR(8) PRIMARY KEY,
   YEAR INTEGER NOT NULL,
   SEMESTER INTEGER NOT NULL,
@@ -15,15 +18,15 @@ CREATE TABLE dim_date (
 );
 
 -- Create product dimension
-CREATE TABLE dim_product (
- PRODUCTID PRIMARY KEY,
+CREATE TABLE datawarehouse.dim_product (
+ PRODUCTID INTEGER PRIMARY KEY,
  PRODUCTCODE VARCHAR(50) NOT NULL,
  PRODUCTLINE VARCHAR(50) NOT NULL,
  MSRP INTEGER NOT NULL
 );
 
 -- Creating customer dimension
-CREATE TABLE dim_customer (
+CREATE TABLE datawarehouse.dim_customer (
   CUSTOMERID INTEGER PRIMARY KEY,
   CUSTOMERNAME VARCHAR(50) NOT NULL,
   PHONE VARCHAR(20) NOT NULL,
@@ -38,4 +41,12 @@ CREATE TABLE dim_customer (
   COUNTRY VARCHAR(50) NOT NULL,
   TERRITORY VARCHAR(50)
 );
+
+ALTER TABLE datawarehouse.dim_customer
+    ALTER COLUMN state DROP NOT NULL,
+    ALTER COLUMN postalcode DROP NOT NULL,
+    ALTER COLUMN territory DROP NOT NULL;
+
+ALTER TABLE datawarehouse.dim_date
+    ALTER COLUMN monthnumberbyyear TYPE VARCHAR(7);
 
