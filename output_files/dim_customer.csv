@@ -1,93 +1,93 @@
-CUSTOMERID,CUSTOMERNAME,PHONE,CONTACTFIRSTNAME,CONTACTLASTNAME,LOCATIONID,ADDRESSLINE1,ADDRESSLINE2,CITY,STATE,POSTALCODE,COUNTRY,TERRITORY
-1,Land of Toys Inc.,2125557818,Kwai,Yu,1,897 Long Airport Avenue,,NYC,NY,10022,USA,
-2,Reims Collectables,26.47.1555,Paul,Henriot,2,59 rue de l'Abbaye,,Reims,,51100,France,EMEA
-3,Lyon Souveniers,+33 1 46 62 7555,Daniel,Da Cunha,3,27 rue du Colonel Pierre Avia,,Paris,,75508,France,EMEA
-4,Toys4GrownUps.com,6265557265,Julie,Young,4,78934 Hillside Dr.,,Pasadena,CA,90003,USA,
-5,Corporate Gift Ideas Co.,6505551386,Julie,Brown,5,7734 Strong St.,,San Francisco,CA,,USA,
-6,Technics Stores Inc.,6505556809,Juri,Hirano,6,9408 Furth Circle,,Burlingame,CA,94217,USA,
-7,Daedalus Designs Imports,20.16.1555,Martine,Rance,7,"184, chausse de Tournai",,Lille,,59000,France,EMEA
-8,Herkku Gifts,+47 2267 3215,Veysel,Oeztan,8,"Drammen 121, PR 744 Sentrum",,Bergen,,N 5804,Norway,EMEA
-9,Mini Wheels Co.,6505555787,Julie,Murphy,9,5557 North Pendale Street,,San Francisco,CA,,USA,
-10,Auto Canal Petit,(1) 47.55.6555,Dominique,Perrier,10,"25, rue Lauriston",,Paris,,75016,France,EMEA
-11,"Australian Collectors, Co.",03 9520 4555,Peter,Ferguson,11,636 St Kilda Road,Level 3,Melbourne,Victoria,3004,Australia,APAC
-12,Vitachrome Inc.,2125551500,Michael,Frick,12,2678 Kingston Rd.,Suite 101,NYC,NY,10022,USA,
-13,Tekni Collectables Inc.,2015559350,William,Brown,13,7476 Moss Rd.,,Newark,NJ,94019,USA,
-14,Gift Depot Inc.,2035552570,Julie,King,14,25593 South Bay Ln.,,Bridgewater,CT,97562,USA,
-15,La Rochelle Gifts,40.67.8555,Janine,Labrune,15,"67, rue des Cinquante Otages",,Nantes,,44000,France,EMEA
-16,Marta's Replicas Co.,6175558555,Marta,Hernandez,16,39323 Spinnaker Dr.,,Cambridge,MA,51247,USA,
-17,"Toys of Finland, Co.",90-224 8555,Matti,Karttunen,17,Keskuskatu 45,,Helsinki,,21240,Finland,EMEA
-18,Baane Mini Imports,07-98 9555,Jonas,Bergulfsen,18,Erling Skakkes gate 78,,Stavern,,4110,Norway,EMEA
-19,Diecast Classics Inc.,2155551555,Kyung,Yu,19,7586 Pompton St.,,Allentown,PA,70267,USA,
-20,Salzburg Collectables,6562-9555,Georg,Pipps,20,Geislweg 14,,Salzburg,,5020,Austria,EMEA
-21,Souveniers And Things Co.,+61 2 9495 8555,Adrian,Huxley,21,"Monitor Money Building, 815 Pacific Hwy",Level 6,Chatswood,NSW,2067,Australia,APAC
-22,FunGiftIdeas.com,5085552555,Violeta,Benitez,22,1785 First Street,,New Bedford,MA,50553,USA,
-23,"UK Collectables, Ltd.",(171) 555-2282,Elizabeth,Devon,23,Berkeley Gardens 12  Brewery,,Liverpool,,WX1 6LT,UK,EMEA
-24,Euro Shopping Channel,(91) 555 94 44,Diego,Freyre,24,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA
-25,"Volvo Model Replicas, Co",0921-12 3555,Christina,Berglund,25,Berguvsvgen  8,,Lule,,S-958 22,Sweden,EMEA
-26,"Corrida Auto Replicas, Ltd",(91) 555 22 82,Mart¡n,Sommer,26,"C/ Araquil, 67",,Madrid,,28023,Spain,EMEA
-27,"Dragon Souveniers, Ltd.",+65 221 7555,Eric,Natividad,27,"Bronz Sok., Bronz Apt. 3/6 Tesvikiye",,Singapore,,79903,Singapore,Japan
-28,Classic Legends Inc.,2125558493,Maria,Hernandez,28,5905 Pompton St.,Suite 750,NYC,NY,10022,USA,
-29,"Australian Gift Network, Co",61-7-3844-6555,Tony,Calaghan,29,31 Duncan St. West End,,South Brisbane,Queensland,4101,Australia,APAC
-30,"Classic Gift Ideas, Inc",2155554695,Francisca,Cervantes,30,782 First Street,,Philadelphia,PA,71270,USA,
-31,"Saveley & Henriot, Co.",78.32.5555,Mary,Saveley,31,"2, rue du Commerce",,Lyon,,69004,France,EMEA
-32,Canadian Gift Exchange Network,(604) 555-3392,Yoshi,Tannamuri,32,1900 Oak St.,,Vancouver,BC,V3F 2K1,Canada,
-33,West Coast Collectables Co.,3105553722,Steve,Thompson,33,3675 Furth Circle,,Burbank,CA,94019,USA,
-34,Cambridge Collectables Co.,6175555555,Kyung,Tseng,34,4658 Baden Av.,,Cambridge,MA,51247,USA,
-35,Super Scale Inc.,2035559545,Leslie,Murphy,35,567 North Pendale Street,,New Haven,CT,97823,USA,
-36,"Tokyo Collectables, Ltd",+81 3 3584 0555,Akiko,Shimamura,36,2-2-8 Roppongi,,Minato-ku,Tokyo,106-0032,Japan,Japan
-37,Amica Models & Co.,011-4988555,Paolo,Accorti,37,Via Monte Bianco 34,,Torino,,10100,Italy,EMEA
-38,Scandinavian Gift Ideas,0695-34 6555,Maria,Larsson,38,?kergatan 24,,Boras,,S-844 67,Sweden,EMEA
-39,Auto Assoc. & Cie.,30.59.8555,Daniel,Tonini,39,"67, avenue de l'Europe",,Versailles,,78000,France,EMEA
-40,Mini Gifts Distributors Ltd.,4155551450,Valarie,Nelson,40,5677 Strong St.,,San Rafael,CA,97562,USA,
-41,Online Diecast Creations Co.,6035558647,Valarie,Young,41,2304 Long Airport Avenue,,Nashua,NH,62005,USA,
-42,Collectables For Less Inc.,6175558555,Allen,Nelson,42,7825 Douglas Av.,,Brickhaven,MA,58339,USA,
-43,"Anna's Decorations, Ltd",02 9936 8555,Anna,O'Hara,43,201 Miller Street,Level 15,North Sydney,NSW,2060,Australia,APAC
-44,Quebec Home Shopping Network,(514) 555-8054,Jean,Fresnisre,44,43 rue St. Laurent,,Montreal,Quebec,H1J 1C3,Canada,
-45,Osaka Souveniers Co.,+81 06 6342 5555,Mory,Kentary,45,"Dojima Avanza 4F, 1-6-20 Dojima, Kita-ku",,Osaka,Osaka,530-0003,Japan,Japan
-46,Motor Mint Distributors Inc.,2155559857,Rosa,Hernandez,46,11328 Douglas Av.,,Philadelphia,PA,71270,USA,
-47,Atelier graphique,40.32.2555,Carine,Schmitt,47,"54, rue Royale",,Nantes,,44000,France,EMEA
-48,Mini Classics,9145554562,Steve,Frick,48,3758 North Pendale Street,,White Plains,NY,24067,USA,
-49,Danish Wholesale Imports,31 12 3555,Jytte,Petersen,49,Vinb'ltet 34,,Kobenhavn,,1734,Denmark,EMEA
-50,"Stylish Desk Decors, Co.",(171) 555-0297,Ann,Brown,50,35 King George,,London,,WX3 6FW,UK,EMEA
-51,Mini Creations Ltd.,5085559555,Wing C,Tam,51,4575 Hillside Dr.,,New Bedford,MA,50553,USA,
-52,Alpha Cognac,61.77.6555,Annette,Roulet,52,1 rue Alsace-Lorraine,,Toulouse,,31000,France,EMEA
-53,"Double Decker Gift Stores, Ltd",(171) 555-7555,Thomas,Hardy,53,120 Hanover Sq.,,London,,WA1 1DP,UK,EMEA
-54,Enaco Distributors,(93) 203 4555,Eduardo,Saavedra,54,"Rambla de Catalu¤a, 23",,Barcelona,,8022,Spain,EMEA
-55,"Men 'R' US Retailers, Ltd.",2155554369,Michael,Chandler,55,6047 Douglas Av.,,Los Angeles,CA,,USA,
-56,Collectable Mini Designs Co.,7605558146,Valarie,Thompson,56,361 Furth Circle,,San Diego,CA,91217,USA,
-57,Petit Auto,(02) 5554 67,Catherine,Dewey,57,Rue Joseph-Bens 532,,Bruxelles,,B-1180,Belgium,EMEA
-58,"Royal Canadian Collectables, Ltd.",(604) 555-4555,Elizabeth,Lincoln,58,23 Tsawassen Blvd.,,Tsawassen,BC,T2F 8M4,Canada,
-59,Gifts4AllAges.com,6175559555,Juri,Yoshido,59,8616 Spinnaker Dr.,,Boston,MA,51003,USA,
-60,giftsbymail.co.uk,(198) 555-8888,Helen,Bennett,60,Garden House Crowther Way,,Cowes,Isle of Wight,PO31 7PJ,UK,EMEA
-61,"Oulu Toy Supplies, Inc.",981-443655,Pirkko,Koskitalo,61,Torikatu 38,,Oulu,,90110,Finland,EMEA
-62,The Sharp Gifts Warehouse,4085553659,Sue,Frick,62,3086 Ingle Ln.,,San Jose,CA,94217,USA,
-63,"La Corne D'abondance, Co.",(1) 42.34.2555,Marie,Bertrand,63,"265, boulevard Charonne",,Paris,,75012,France,EMEA
-64,Mini Auto Werke,7675-3555,Roland,Mendel,64,Kirchgasse 6,,Graz,,8010,Austria,EMEA
-65,Diecast Collectables,6175552555,Valarie,Franco,65,6251 Ingle Ln.,,Boston,MA,51003,USA,
-66,Handji Gifts& Co,+65 224 1555,Wendy,Victorino,66,Village Close - 106 Linden Road Sandown,2nd Floor,Singapore,,69045,Singapore,APAC
-67,Cruz & Sons Co.,+63 2 555 3587,Arnold,Cruz,67,15 McCallum Street - NatWest Center #13-03,,Makati City,,1227 MM,Philippines,Japan
-68,Marseille Mini Autos,91.24.4555,Laurence,Lebihan,68,"12, rue des Bouchers",,Marseille,,13008,France,EMEA
-69,"Toms Spezialitten, Ltd",0221-5554327,Henriette,Pfalzheim,69,Mehrheimerstr. 369,,Koln,,50739,Germany,EMEA
-70,"Vida Sport, Ltd",0897-034555,Michael,Holz,70,Grenzacherweg 237,,Gensve,,1203,Switzerland,EMEA
-71,L'ordine Souveniers,0522-556555,Maurizio,Moroni,71,Strada Provinciale 124,,Reggio Emilia,,42100,Italy,EMEA
-72,Online Mini Collectables,6175557555,Miguel,Barajas,72,7635 Spinnaker Dr.,,Brickhaven,MA,58339,USA,
-73,"Blauer See Auto, Co.",+49 69 66 90 2555,Roland,Keitel,73,Lyonerstr. 34,,Frankfurt,,60528,Germany,EMEA
-74,Suominen Souveniers,+358 9 8045 555,Kalle,Suominen,74,"Software Engineering Center, SEC Oy",,Espoo,,FIN-02271,Finland,EMEA
-75,Muscle Machine Inc,2125557413,Jeff,Young,75,4092 Furth Circle,Suite 400,NYC,NY,10022,USA,
-76,"Clover Collections, Co.",+353 1862 1555,Dean,Cassidy,76,25 Maiden Lane,Floor No. 4,Dublin,,2,Ireland,EMEA
-77,CAF Imports,+34 913 728 555,Jesus,Fernandez,77,"Merchants House, 27-30 Merchant's Quay",,Madrid,,28023,Spain,EMEA
-78,"AV Stores, Co.",(171) 555-1555,Victoria,Ashworth,78,Fauntleroy Circus,,Manchester,,EC2 5NT,UK,EMEA
-79,Heintze Collectables,86 21 3555,Palle,Ibsen,79,Smagsloget 45,,Aaarhus,,8200,Denmark,EMEA
-80,Microscale Inc.,2125551957,Kee,Kuo,80,5290 North Pendale Street,Suite 200,NYC,NY,10022,USA,
-81,Boards & Toys Co.,3105552373,Leslie,Young,81,4097 Douglas Av.,,Glendale,CA,92561,USA,
-82,"Iberia Gift Imports, Corp.",(95) 555 82 82,Jose Pedro,Roel,82,"C/ Romero, 33",,Sevilla,,41101,Spain,EMEA
-83,Signal Collectibles Ltd.,4155554312,Sue,Taylor,83,2793 Furth Circle,,Brisbane,CA,94217,USA,
-84,Mini Caravy,88.60.1555,Frederique,Citeaux,84,"24, place Kluber",,Strasbourg,,67000,France,EMEA
-85,Signal Gift Stores,7025551838,Sue,King,85,8489 Strong St.,,Las Vegas,NV,83030,USA,
-86,"Norway Gifts By Mail, Co.",+47 2212 1555,Jan,Klaeboe,86,"Drammensveien 126 A, PB 744 Sentrum",,Oslo,,N 0106,Norway,EMEA
-87,Rovelli Gifts,035-640555,Giovanni,Rovelli,87,Via Ludovico il Moro 22,,Bergamo,,24100,Italy,EMEA
-88,"Australian Collectables, Ltd",61-9-3844-6555,Sean,Connery,88,7 Allen Street,,Glen Waverly,Victoria,3150,Australia,APAC
-89,Gift Ideas Corp.,2035554407,Dan,Lewis,89,2440 Pompton St.,,Glendale,CT,97561,USA,
-90,"Bavarian Collectables Imports, Co.",+49 89 61 08 9555,Michael,Donnermeyer,90,Hansastr. 15,,Munich,,80686,Germany,EMEA
-91,Royale Belge,(071) 23 67 2555,Pascale,Cartrain,91,"Boulevard Tirou, 255",,Charleroi,,B-6000,Belgium,EMEA
-92,Auto-Moto Classics Inc.,6175558428,Leslie,Taylor,92,16780 Pompton St.,,Brickhaven,MA,58339,USA,
+CUSTOMERID,CUSTOMERNAME,PHONE,CONTACTFIRSTNAME,CONTACTLASTNAME,ADDRESSLINE1,ADDRESSLINE2,CITY,STATE,POSTALCODE,COUNTRY,TERRITORY
+1,Land of Toys Inc.,2125557818,Kwai,Yu,897 Long Airport Avenue,,NYC,NY,10022,USA,
+2,Reims Collectables,26.47.1555,Paul,Henriot,59 rue de l'Abbaye,,Reims,,51100,France,EMEA
+3,Lyon Souveniers,+33 1 46 62 7555,Daniel,Da Cunha,27 rue du Colonel Pierre Avia,,Paris,,75508,France,EMEA
+4,Toys4GrownUps.com,6265557265,Julie,Young,78934 Hillside Dr.,,Pasadena,CA,90003,USA,
+5,Corporate Gift Ideas Co.,6505551386,Julie,Brown,7734 Strong St.,,San Francisco,CA,,USA,
+6,Technics Stores Inc.,6505556809,Juri,Hirano,9408 Furth Circle,,Burlingame,CA,94217,USA,
+7,Daedalus Designs Imports,20.16.1555,Martine,Rance,"184, chausse de Tournai",,Lille,,59000,France,EMEA
+8,Herkku Gifts,+47 2267 3215,Veysel,Oeztan,"Drammen 121, PR 744 Sentrum",,Bergen,,N 5804,Norway,EMEA
+9,Mini Wheels Co.,6505555787,Julie,Murphy,5557 North Pendale Street,,San Francisco,CA,,USA,
+10,Auto Canal Petit,(1) 47.55.6555,Dominique,Perrier,"25, rue Lauriston",,Paris,,75016,France,EMEA
+11,"Australian Collectors, Co.",03 9520 4555,Peter,Ferguson,636 St Kilda Road,Level 3,Melbourne,Victoria,3004,Australia,APAC
+12,Vitachrome Inc.,2125551500,Michael,Frick,2678 Kingston Rd.,Suite 101,NYC,NY,10022,USA,
+13,Tekni Collectables Inc.,2015559350,William,Brown,7476 Moss Rd.,,Newark,NJ,94019,USA,
+14,Gift Depot Inc.,2035552570,Julie,King,25593 South Bay Ln.,,Bridgewater,CT,97562,USA,
+15,La Rochelle Gifts,40.67.8555,Janine,Labrune,"67, rue des Cinquante Otages",,Nantes,,44000,France,EMEA
+16,Marta's Replicas Co.,6175558555,Marta,Hernandez,39323 Spinnaker Dr.,,Cambridge,MA,51247,USA,
+17,"Toys of Finland, Co.",90-224 8555,Matti,Karttunen,Keskuskatu 45,,Helsinki,,21240,Finland,EMEA
+18,Baane Mini Imports,07-98 9555,Jonas,Bergulfsen,Erling Skakkes gate 78,,Stavern,,4110,Norway,EMEA
+19,Diecast Classics Inc.,2155551555,Kyung,Yu,7586 Pompton St.,,Allentown,PA,70267,USA,
+20,Salzburg Collectables,6562-9555,Georg,Pipps,Geislweg 14,,Salzburg,,5020,Austria,EMEA
+21,Souveniers And Things Co.,+61 2 9495 8555,Adrian,Huxley,"Monitor Money Building, 815 Pacific Hwy",Level 6,Chatswood,NSW,2067,Australia,APAC
+22,FunGiftIdeas.com,5085552555,Violeta,Benitez,1785 First Street,,New Bedford,MA,50553,USA,
+23,"UK Collectables, Ltd.",(171) 555-2282,Elizabeth,Devon,Berkeley Gardens 12  Brewery,,Liverpool,,WX1 6LT,UK,EMEA
+24,Euro Shopping Channel,(91) 555 94 44,Diego,Freyre,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA
+25,"Volvo Model Replicas, Co",0921-12 3555,Christina,Berglund,Berguvsvgen  8,,Lule,,S-958 22,Sweden,EMEA
+26,"Corrida Auto Replicas, Ltd",(91) 555 22 82,Mart¡n,Sommer,"C/ Araquil, 67",,Madrid,,28023,Spain,EMEA
+27,"Dragon Souveniers, Ltd.",+65 221 7555,Eric,Natividad,"Bronz Sok., Bronz Apt. 3/6 Tesvikiye",,Singapore,,79903,Singapore,Japan
+28,Classic Legends Inc.,2125558493,Maria,Hernandez,5905 Pompton St.,Suite 750,NYC,NY,10022,USA,
+29,"Australian Gift Network, Co",61-7-3844-6555,Tony,Calaghan,31 Duncan St. West End,,South Brisbane,Queensland,4101,Australia,APAC
+30,"Classic Gift Ideas, Inc",2155554695,Francisca,Cervantes,782 First Street,,Philadelphia,PA,71270,USA,
+31,"Saveley & Henriot, Co.",78.32.5555,Mary,Saveley,"2, rue du Commerce",,Lyon,,69004,France,EMEA
+32,Canadian Gift Exchange Network,(604) 555-3392,Yoshi,Tannamuri,1900 Oak St.,,Vancouver,BC,V3F 2K1,Canada,
+33,West Coast Collectables Co.,3105553722,Steve,Thompson,3675 Furth Circle,,Burbank,CA,94019,USA,
+34,Cambridge Collectables Co.,6175555555,Kyung,Tseng,4658 Baden Av.,,Cambridge,MA,51247,USA,
+35,Super Scale Inc.,2035559545,Leslie,Murphy,567 North Pendale Street,,New Haven,CT,97823,USA,
+36,"Tokyo Collectables, Ltd",+81 3 3584 0555,Akiko,Shimamura,2-2-8 Roppongi,,Minato-ku,Tokyo,106-0032,Japan,Japan
+37,Amica Models & Co.,011-4988555,Paolo,Accorti,Via Monte Bianco 34,,Torino,,10100,Italy,EMEA
+38,Scandinavian Gift Ideas,0695-34 6555,Maria,Larsson,?kergatan 24,,Boras,,S-844 67,Sweden,EMEA
+39,Auto Assoc. & Cie.,30.59.8555,Daniel,Tonini,"67, avenue de l'Europe",,Versailles,,78000,France,EMEA
+40,Mini Gifts Distributors Ltd.,4155551450,Valarie,Nelson,5677 Strong St.,,San Rafael,CA,97562,USA,
+41,Online Diecast Creations Co.,6035558647,Valarie,Young,2304 Long Airport Avenue,,Nashua,NH,62005,USA,
+42,Collectables For Less Inc.,6175558555,Allen,Nelson,7825 Douglas Av.,,Brickhaven,MA,58339,USA,
+43,"Anna's Decorations, Ltd",02 9936 8555,Anna,O'Hara,201 Miller Street,Level 15,North Sydney,NSW,2060,Australia,APAC
+44,Quebec Home Shopping Network,(514) 555-8054,Jean,Fresnisre,43 rue St. Laurent,,Montreal,Quebec,H1J 1C3,Canada,
+45,Osaka Souveniers Co.,+81 06 6342 5555,Mory,Kentary,"Dojima Avanza 4F, 1-6-20 Dojima, Kita-ku",,Osaka,Osaka,530-0003,Japan,Japan
+46,Motor Mint Distributors Inc.,2155559857,Rosa,Hernandez,11328 Douglas Av.,,Philadelphia,PA,71270,USA,
+47,Atelier graphique,40.32.2555,Carine,Schmitt,"54, rue Royale",,Nantes,,44000,France,EMEA
+48,Mini Classics,9145554562,Steve,Frick,3758 North Pendale Street,,White Plains,NY,24067,USA,
+49,Danish Wholesale Imports,31 12 3555,Jytte,Petersen,Vinb'ltet 34,,Kobenhavn,,1734,Denmark,EMEA
+50,"Stylish Desk Decors, Co.",(171) 555-0297,Ann,Brown,35 King George,,London,,WX3 6FW,UK,EMEA
+51,Mini Creations Ltd.,5085559555,Wing C,Tam,4575 Hillside Dr.,,New Bedford,MA,50553,USA,
+52,Alpha Cognac,61.77.6555,Annette,Roulet,1 rue Alsace-Lorraine,,Toulouse,,31000,France,EMEA
+53,"Double Decker Gift Stores, Ltd",(171) 555-7555,Thomas,Hardy,120 Hanover Sq.,,London,,WA1 1DP,UK,EMEA
+54,Enaco Distributors,(93) 203 4555,Eduardo,Saavedra,"Rambla de Catalu¤a, 23",,Barcelona,,8022,Spain,EMEA
+55,"Men 'R' US Retailers, Ltd.",2155554369,Michael,Chandler,6047 Douglas Av.,,Los Angeles,CA,,USA,
+56,Collectable Mini Designs Co.,7605558146,Valarie,Thompson,361 Furth Circle,,San Diego,CA,91217,USA,
+57,Petit Auto,(02) 5554 67,Catherine,Dewey,Rue Joseph-Bens 532,,Bruxelles,,B-1180,Belgium,EMEA
+58,"Royal Canadian Collectables, Ltd.",(604) 555-4555,Elizabeth,Lincoln,23 Tsawassen Blvd.,,Tsawassen,BC,T2F 8M4,Canada,
+59,Gifts4AllAges.com,6175559555,Juri,Yoshido,8616 Spinnaker Dr.,,Boston,MA,51003,USA,
+60,giftsbymail.co.uk,(198) 555-8888,Helen,Bennett,Garden House Crowther Way,,Cowes,Isle of Wight,PO31 7PJ,UK,EMEA
+61,"Oulu Toy Supplies, Inc.",981-443655,Pirkko,Koskitalo,Torikatu 38,,Oulu,,90110,Finland,EMEA
+62,The Sharp Gifts Warehouse,4085553659,Sue,Frick,3086 Ingle Ln.,,San Jose,CA,94217,USA,
+63,"La Corne D'abondance, Co.",(1) 42.34.2555,Marie,Bertrand,"265, boulevard Charonne",,Paris,,75012,France,EMEA
+64,Mini Auto Werke,7675-3555,Roland,Mendel,Kirchgasse 6,,Graz,,8010,Austria,EMEA
+65,Diecast Collectables,6175552555,Valarie,Franco,6251 Ingle Ln.,,Boston,MA,51003,USA,
+66,Handji Gifts& Co,+65 224 1555,Wendy,Victorino,Village Close - 106 Linden Road Sandown,2nd Floor,Singapore,,69045,Singapore,APAC
+67,Cruz & Sons Co.,+63 2 555 3587,Arnold,Cruz,15 McCallum Street - NatWest Center #13-03,,Makati City,,1227 MM,Philippines,Japan
+68,Marseille Mini Autos,91.24.4555,Laurence,Lebihan,"12, rue des Bouchers",,Marseille,,13008,France,EMEA
+69,"Toms Spezialitten, Ltd",0221-5554327,Henriette,Pfalzheim,Mehrheimerstr. 369,,Koln,,50739,Germany,EMEA
+70,"Vida Sport, Ltd",0897-034555,Michael,Holz,Grenzacherweg 237,,Gensve,,1203,Switzerland,EMEA
+71,L'ordine Souveniers,0522-556555,Maurizio,Moroni,Strada Provinciale 124,,Reggio Emilia,,42100,Italy,EMEA
+72,Online Mini Collectables,6175557555,Miguel,Barajas,7635 Spinnaker Dr.,,Brickhaven,MA,58339,USA,
+73,"Blauer See Auto, Co.",+49 69 66 90 2555,Roland,Keitel,Lyonerstr. 34,,Frankfurt,,60528,Germany,EMEA
+74,Suominen Souveniers,+358 9 8045 555,Kalle,Suominen,"Software Engineering Center, SEC Oy",,Espoo,,FIN-02271,Finland,EMEA
+75,Muscle Machine Inc,2125557413,Jeff,Young,4092 Furth Circle,Suite 400,NYC,NY,10022,USA,
+76,"Clover Collections, Co.",+353 1862 1555,Dean,Cassidy,25 Maiden Lane,Floor No. 4,Dublin,,2,Ireland,EMEA
+77,CAF Imports,+34 913 728 555,Jesus,Fernandez,"Merchants House, 27-30 Merchant's Quay",,Madrid,,28023,Spain,EMEA
+78,"AV Stores, Co.",(171) 555-1555,Victoria,Ashworth,Fauntleroy Circus,,Manchester,,EC2 5NT,UK,EMEA
+79,Heintze Collectables,86 21 3555,Palle,Ibsen,Smagsloget 45,,Aaarhus,,8200,Denmark,EMEA
+80,Microscale Inc.,2125551957,Kee,Kuo,5290 North Pendale Street,Suite 200,NYC,NY,10022,USA,
+81,Boards & Toys Co.,3105552373,Leslie,Young,4097 Douglas Av.,,Glendale,CA,92561,USA,
+82,"Iberia Gift Imports, Corp.",(95) 555 82 82,Jose Pedro,Roel,"C/ Romero, 33",,Sevilla,,41101,Spain,EMEA
+83,Signal Collectibles Ltd.,4155554312,Sue,Taylor,2793 Furth Circle,,Brisbane,CA,94217,USA,
+84,Mini Caravy,88.60.1555,Frederique,Citeaux,"24, place Kluber",,Strasbourg,,67000,France,EMEA
+85,Signal Gift Stores,7025551838,Sue,King,8489 Strong St.,,Las Vegas,NV,83030,USA,
+86,"Norway Gifts By Mail, Co.",+47 2212 1555,Jan,Klaeboe,"Drammensveien 126 A, PB 744 Sentrum",,Oslo,,N 0106,Norway,EMEA
+87,Rovelli Gifts,035-640555,Giovanni,Rovelli,Via Ludovico il Moro 22,,Bergamo,,24100,Italy,EMEA
+88,"Australian Collectables, Ltd",61-9-3844-6555,Sean,Connery,7 Allen Street,,Glen Waverly,Victoria,3150,Australia,APAC
+89,Gift Ideas Corp.,2035554407,Dan,Lewis,2440 Pompton St.,,Glendale,CT,97561,USA,
+90,"Bavarian Collectables Imports, Co.",+49 89 61 08 9555,Michael,Donnermeyer,Hansastr. 15,,Munich,,80686,Germany,EMEA
+91,Royale Belge,(071) 23 67 2555,Pascale,Cartrain,"Boulevard Tirou, 255",,Charleroi,,B-6000,Belgium,EMEA
+92,Auto-Moto Classics Inc.,6175558428,Leslie,Taylor,16780 Pompton St.,,Brickhaven,MA,58339,USA,
