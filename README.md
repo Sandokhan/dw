@@ -1,22 +1,13 @@
-# Build a Data Warehouse from the ground!
+# 🚀 Welcome to our Data Warehouse repo! 🚀
 
-👋 Welcome to the Data Warehouse repository! Here you'll find everything you need to know about our amazing project! 💻📈
+# What's inside?
+📝 In this repo, we've sliced and diced a massive dataset into smaller, more manageable dimensions using some pretty nifty ETL techniques. We then used these dimensions to create two fact tables, factorderlines and factorders.
 
-# 📁 What's in the Repository?
+# The tech we used
+💾 To handle the database, we went with the trusty Azure, and for data visualization, we chose the ever-popular PowerBI.
 
-- A collection of SQL scripts for creating tables in a data warehouse.
-- Sample data to populate the warehouse.
-- Queries using ROLLUP and CUBE to answer analytical questions.
-- A README file to help you navigate the repository. 🧐 (WIP)
+# Take a peek
+📊 Check out our main file, "main.ipynb", to see our ETL process in action and how we transformed the data. We've also included our "dim" and "fact" tables so you can see how we organized our data for optimal analysis.
 
-- # 🎉 What's the Purpose of This Project?
-The purpose of this project is to demonstrate the creation of a data warehouse, which is used to consolidate data from various sources to support business intelligence and decision making.
-
-# 🤔 How to Use This Repository?
-To use this repository, you can follow the step-by-step guide in the README file to create tables in your own data warehouse. Then you can use the provided sample data and queries to explore and analyze the data using ROLLUP and CUBE.
-
-# 🙏 Contributions
-We welcome contributions to this repository! If you find any issues or have suggestions for improvements, feel free to open a pull request. Let's make this project better together! 🤝
-
-# 📝 License
-This project is licensed under the MIT License. Feel free to use the code as you please.
+# Join the fun
+🤖 We hope this repo inspires you and gives you some ideas for your own data warehousing projects. Come join the fun of data slicing and dicing with us! 🤖
